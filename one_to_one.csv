@@ -1,0 +1,3 @@
+﻿Source,Node,Path,Parent,Relationship
+SurveyName,title,metadata.idinfo.citation.citeinfo.title.text,metadata.idinfo.citation.citeinfo,one-to-one
+Station,address,metadata.distinfo.distrib.cntinfo.cntaddr.address.text,metadata.distinfo.distrib.cntinfo.cntaddr,one-to-one
